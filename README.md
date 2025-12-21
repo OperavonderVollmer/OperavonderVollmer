@@ -41,7 +41,7 @@ Building the **Ophelia Suite**—a unified, modular automation framework that in
 - Email: operavondervollmer@gmail.com
 - Open to remote/web development/contract opportunities
 
-> "." – Adapted with approval from pioneers who valued precise automation over needless toil.
+> "Fate is just a roll of dice, you can't feel malice in it"
 
 ---
 *Profile last refined: December 2025*
