@@ -37,7 +37,6 @@ Building the **Ophelia Suite**—a unified, modular automation framework that in
 
 ## 📬 Connect
 
-- LinkedIn: [Add your LinkedIn URL here]
 - Email: operavondervollmer@gmail.com
 - Open to remote/web development/contract opportunities
 
