@@ -43,4 +43,4 @@ Building the **Ophelia Suite**—a unified, modular automation framework that in
 > "Fate is just a roll of dice, you can't feel malice in it"
 
 ---
-*Profile last refined: December 2025*
+*Last update: December 2025*
