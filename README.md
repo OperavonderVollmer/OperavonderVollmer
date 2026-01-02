@@ -21,10 +21,35 @@ Building the **Ophelia Suite**—a unified, modular automation framework that in
 - **[PluginTemplate](https://github.com/OperavonderVollmer/PluginTemplate)**: Abstract base class enforcing metadata standards, execution lifecycle (prep/execute/cleanup), and interface consistency across all suite plugins.
 
 ## 🚀 Featured Projects
-
-[![Ophelia](https://github-readme-stats.vercel.app/api/pin/?username=OperavonderVollmer&repo=Ophelia&theme=dark)](https://github.com/OperavonderVollmer/Ophelia)
-[![OperaPowerRelay](https://github-readme-stats.vercel.app/api/pin/?username=OperavonderVollmer&repo=OperaPowerRelay&theme=dark)](https://github.com/OperavonderVollmer/OperaPowerRelay)
-[![PluginTemplate](https://github-readme-stats.vercel.app/api/pin/?username=OperavonderVollmer&repo=PluginTemplate&theme=dark)](https://github.com/OperavonderVollmer/PluginTemplate)
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/OperavonderVollmer/Ophelia">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=OperavonderVollmer&repo=Ophelia&theme=dark&v=1" 
+             alt="Ophelia" 
+             width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding-top: 16px;">
+      <a href="https://github.com/OperavonderVollmer/OperaPowerRelay">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=OperavonderVollmer&repo=OperaPowerRelay&theme=dark&v=1" 
+             alt="OperaPowerRelay" 
+             width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding-top: 16px;">
+      <a href="https://github.com/OperavonderVollmer/PluginTemplate">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=OperavonderVollmer&repo=PluginTemplate&theme=dark&v=1" 
+             alt="PluginTemplate" 
+             width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 GitHub Stats
