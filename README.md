@@ -51,15 +51,6 @@ Building the **Ophelia Suite**—a unified, modular automation framework that in
   </tr>
 </table>
 
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OperavonderVollmer&layout=compact&theme=dark)
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 📬 Connect
 
 - Email: operavondervollmer@gmail.com
